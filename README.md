@@ -5,3 +5,6 @@
 *buat terlebih dahulu invorenment untuk pythonnya dengan cara
 python -m venv venv
 *instal yang dibutuhkan
+
+## cara menggunakan
+*python app.py
